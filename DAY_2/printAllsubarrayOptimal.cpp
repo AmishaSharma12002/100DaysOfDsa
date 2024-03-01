@@ -39,6 +39,10 @@ int main()
         arr.push_back(temp);
     }
      printAllsubarray(arr, size);
+     for(int i =0;i<size;i++)
+     {
+        cout
+     }
 
 }
 /*
